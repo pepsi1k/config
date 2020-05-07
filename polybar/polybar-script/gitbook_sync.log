@@ -1,0 +1,888 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@       WARNING: POSSIBLE DNS SPOOFING DETECTED!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+The ECDSA host key for pepsik.xyz has changed,
+and the key for the corresponding IP address 157.230.104.165
+is unchanged. This could either mean that
+DNS SPOOFING is happening or the IP address for the host
+and its host key have changed at the same time.
+Offending key for IP in /home/pepsik/.ssh/known_hosts:13
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ECDSA key sent by the remote host is
+SHA256:AFThKkI4zriuhaboqUg/XOkWKaOMPph37w0agsy6Buc.
+Please contact your system administrator.
+Add correct host key in /home/pepsik/.ssh/known_hosts to get rid of this message.
+Offending ECDSA key in /home/pepsik/.ssh/known_hosts:12
+ECDSA host key for pepsik.xyz has changed and you have requested strict checking.
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@       WARNING: POSSIBLE DNS SPOOFING DETECTED!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+The ECDSA host key for pepsik.xyz has changed,
+and the key for the corresponding IP address 157.230.104.165
+is unchanged. This could either mean that
+DNS SPOOFING is happening or the IP address for the host
+and its host key have changed at the same time.
+Offending key for IP in /home/pepsik/.ssh/known_hosts:13
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ECDSA key sent by the remote host is
+SHA256:AFThKkI4zriuhaboqUg/XOkWKaOMPph37w0agsy6Buc.
+Please contact your system administrator.
+Add correct host key in /home/pepsik/.ssh/known_hosts to get rid of this message.
+Offending ECDSA key in /home/pepsik/.ssh/known_hosts:12
+ECDSA host key for pepsik.xyz has changed and you have requested strict checking.
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY vim.md
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@       WARNING: POSSIBLE DNS SPOOFING DETECTED!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+The ECDSA host key for pepsik.xyz has changed,
+and the key for the corresponding IP address 157.230.104.165
+is unchanged. This could either mean that
+DNS SPOOFING is happening or the IP address for the host
+and its host key have changed at the same time.
+Offending key for IP in /home/pepsik/.ssh/known_hosts:13
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ECDSA key sent by the remote host is
+SHA256:AFThKkI4zriuhaboqUg/XOkWKaOMPph37w0agsy6Buc.
+Please contact your system administrator.
+Add correct host key in /home/pepsik/.ssh/known_hosts to get rid of this message.
+Offending ECDSA key in /home/pepsik/.ssh/known_hosts:12
+ECDSA host key for pepsik.xyz has changed and you have requested strict checking.
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@       WARNING: POSSIBLE DNS SPOOFING DETECTED!          @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+The ECDSA host key for pepsik.xyz has changed,
+and the key for the corresponding IP address 157.230.104.165
+is unchanged. This could either mean that
+DNS SPOOFING is happening or the IP address for the host
+and its host key have changed at the same time.
+Offending key for IP in /home/pepsik/.ssh/known_hosts:13
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ECDSA key sent by the remote host is
+SHA256:AFThKkI4zriuhaboqUg/XOkWKaOMPph37w0agsy6Buc.
+Please contact your system administrator.
+Add correct host key in /home/pepsik/.ssh/known_hosts to get rid of this message.
+Offending ECDSA key in /home/pepsik/.ssh/known_hosts:12
+ECDSA host key for pepsik.xyz has changed and you have requested strict checking.
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY knowledge-base.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY bash.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]\#012\#000D=\#014V\#000\#000`pq;\#375\#000\#000\#240]q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#361\#271D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#220\#000\#000\#200\#002\#000\#000\#000\#260\#271D=\#014V\#000\#000`pq;\#375\#000\#000\#340]q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#321\#267D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#216\#000\#000\#200\#002\#000\#000\#000\#220\#267D=\#014V\#000\#000`pq;\#375\#000\#000 ^q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000a\#265D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#214\#000\#000\#200\#002\#000\#000\#000 \#265D=\#014V\#000\#000`pq;\#375\#000\#000`^q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000A\#263D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#212\#000\#000\#200\#002\#000\#000\#000\#000\#263D=\#014V\#000\#000`pq;\#375\#000\#000\#240^q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000q\#261D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#210\#000\#000\#200\#002\#000\#000\#0000\#261D=\#014V\#000\#000`pq;\#375\#000\#000\#340^q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#241\#257D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#206\#000\#000\#200\#002\#000\#000\#000`\#257D=\#014V\#000\#000`pq;\#375\#000\#000 _q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#321\#255D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#204\#000\#000\#200\#002\#000\#000\#000\#220\#255D=\#014V\#000\#000`pq;\#375\#000\#000`_q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#241\#254D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#202\#000\#000\#200\#002\#000\#000\#000`\#254D=\#014V\#000\#000`pq;\#375\#000\#000\#240_q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#321\#252D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#200\#000\#000\#200\#002\#000\#000\#000\#220\#252D=\#014V\#000\#000`pq;\#375\#000\#000\#340_q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#021\#247D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000~\#000\#000\#200\#002\#000\#000\#000\#320\#246D=\#014V\#000\#000`pq;\#375\#000\#000 `q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000a\#245D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000|\#000\#000\#200\#002\#000\#000\#000 \#245D=\#014V\#000\#000`pq;\#375\#000\#000``q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#261\#243D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000z\#000\#000\#200\#002\#000\#000\#000p\#243D=\#014V\#000\#000`pq;\#375\#000\#000\#240`q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#001\#242D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000x\#000\#000\#200\#002\#000\#000\#000\#300\#241D=\#014V\#000\#000`pq;\#375\#000\#000\#340`q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000Q\#240D=\#014V\#000\#000\#021\#000\#000\#000\#000\#000\#000\#000v\#000\#000\#200\#002\#000\#000\#000\#020\#240D=\#014V\#000\#000`pq;\#375\#000\#000 aq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#361\#236D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000t\#000\#000\#200\#002\#000\#000\#000\#260\#236D=\#014V\#000\#000`pq;\#375\#000\#000`aq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000A\#235D=\#014V\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000r\#000\#000\#200\#002\#000\#000\#000\#000\#235D=\#014V\#000\#000`pq;\#375\#000\#000\#240aq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#201\#233D=\#014V\#000\#000\#016\#000\#000\#000\#000\#000\#000\#000p\#000\#000\#200\#002\#000\#000\#000@\#233D=\#014V\#000\#000`pq;\#375\#000\#000\#340aq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#301\#231D=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000n\#000\#000\#200\#002\#000\#000\#000\#200\#231D=\#014V\#000\#000`pq;\#375\#000\#000 bq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#001\#230D=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000l\#000\#000\#200\#002\#000\#000\#000\#300\#227D=\#014V\#000\#000`pq;\#375\#000\#000`bq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000A\#226D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000j\#000\#000\#200\#002\#000\#000\#000\#000\#226D=\#014V\#000\#000`pq;\#375\#000\#000\#240bq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#221\#224D=\#014V\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000h\#000\#000\#200\#002\#000\#000\#000P\#224D=\#014V\#000\#000`pq;\#375\#000\#000\#340bq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#321\#222D=\#014V\#000\#000\#016\#000\#000\#000\#000\#000\#000\#000f\#000\#000\#200\#002\#000\#000\#000\#220\#222D=\#014V\#000\#000`pq;\#375\#000\#000 cq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#021\#221D=\#014V\#000\#000\#016\#000\#000\#000\#000\#000\#000\#000d\#000\#000\#200\#002\#000\#000\#000\#320\#220D=\#014V\#000\#000`pq;\#375\#000\#000`cq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000Q\#217D=\#014V\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000b\#000\#000\#200\#002\#000\#000\#000\#020\#217D=\#014V\#000\#000`pq;\#375\#000\#000\#240cq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#221\#215D=\#014V\#000\#000\#016\#000\#000\#000\#000\#000\#000\#000`\#000\#000\#200\#002\#000\#000\#000P\#215D=\#014V\#000\#000`pq;\#375\#000\#000\#340cq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#321\#213D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000^\#000\#000\#200\#002\#000\#000\#000\#220\#213D=\#014V\#000\#000`pq;\#375\#000\#000 dq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000!\#211D=\#014V\#000\#000\#017\#000\#000\#000\#000\#000\#000\#000\\#000\#000\#200\#002\#000\#000\#000\#340\#210D=\#014V\#000\#000`pq;\#375\#000\#000`dq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#001\#207D=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000Z\#000\#000\#200\#002\#000\#000\#000\#300\#206D=\#014V\#000\#000`pq;\#375\#000\#000\#240dq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#361\#204D=\#014V\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000X\#000\#000\#200\#002\#000\#000\#000\#260\#204D=\#014V\#000\#000`pq;\#375\#000\#000\#340dq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000q\#203D=\#014V\#000\#000\#007\#000\#000\#000\#000\#000\#000\#000V\#000\#000\#200\#002\#000\#000\#0000\#203D=\#014V\#000\#000`pq;\#375\#000\#000 eq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000A\#202D=\#014V\#000\#000\#007\#000\#000\#000\#000\#000\#000\#000T\#000\#000\#200\#002\#000\#000\#000\#000\#202D=\#014V\#000\#000`pq;\#375\#000\#000`eq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#321D=\#014V\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000R\#000\#000\#200\#002\#000\#000\#000\#220D=\#014V\#000\#000`pq;\#375\#000\#000\#240eq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#241}D=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#000P\#000\#000\#200\#002\#000\#000\#000`}D=\#014V\#000\#000`pq;\#375\#000\#000\#340eq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000A{D=\#014V\#000\#000\#012\#000\#000\#000\#000\#000\#000\#000N\#000\#000\#200\#002\#000\#000\#000\#000{D=\#014V\#000\#000`pq;\#375\#000\#000 fq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000ayD=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000L\#000\#000\#200\#002\#000\#000\#000 yD=\#014V\#000\#000`pq;\#375\#000\#000`fq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#021wD=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000J\#000\#000\#200\#002\#000\#000\#000\#320vD=\#014V\#000\#000`pq;\#375\#000\#000\#240fq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#221sD=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000H\#000\#000\#200\#002\#000\#000\#000PsD=\#014V\#000\#000`pq;\#375\#000\#000\#340fq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#021pD=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000F\#000\#000\#200\#002\#000\#000\#000\#320oD=\#014V\#000\#000`pq;\#375\#000\#000 gq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#0001lD=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000D\#000\#000\#200\#002\#000\#000\#000\#360kD=\#014V\#000\#000`pq;\#375\#000\#000`gq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000!iD=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000B\#000\#000\#200\#002\#000\#000\#000\#340hD=\#014V\#000\#000`pq;\#375\#000\#000\#240gq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000agD=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000@\#000\#000\#200\#002\#000\#000\#000 gD=\#014V\#000\#000`pq;\#375\#000\#000\#340gq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000!cD=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#000>\#000\#000\#200\#002\#000\#000\#000\#340bD=\#014V\#000\#000`pq;\#375\#000\#000 hq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000a]D=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#000<\#000\#000\#200\#002\#000\#000\#000 ]D=\#014V\#000\#000`pq;\#375\#000\#000`hq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#221XD=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#000:\#000\#000\#200\#002\#000\#000\#000PXD=\#014V\#000\#000`pq;\#375\#000\#000\#240hq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000qRD=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#0008\#000\#000\#200\#002\#000\#000\#0000RD=\#014V\#000\#000`pq;\#375\#000\#000\#340hq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#001MD=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#0006\#000\#000\#200\#002\#000\#000\#000\#300LD=\#014V\#000\#000`pq;\#375\#000\#000 iq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#0001HD=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#0004\#000\#000\#200\#002\#000\#000\#000\#360GD=\#014V\#000\#000`pq;\#375\#000\#000`iq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#261CD=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#0002\#000\#000\#200\#002\#000\#000\#000pCD=\#014V\#000\#000`pq;\#375\#000\#000\#240iq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#0001?D=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#0000\#000\#000\#200\#002\#000\#000\#000\#360>D=\#014V\#000\#000`pq;\#375\#000\#000\#340iq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#021:D=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#000.\#000\#000\#200\#002\#000\#000\#000\#3209D=\#014V\#000\#000`pq;\#375\#000\#000 jq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#3614D=\#014V\#000\#000\#016\#000\#000\#000\#000\#000\#000\#000,\#000\#000\#200\#003\#000\#000\#000\#2604D=\#014V\#000\#000`pq;\#375\#000\#000`jq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#2012D=\#014V\#000\#000\#016\#000\#000\#000\#000\#000\#000\#000*\#000\#000\#200\#003\#000\#000\#000@2D=\#014V\#000\#000`pq;\#375\#000\#000\#240jq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#021/D=\#014V\#000\#000\#005\#000\#000\#000\#000\#000\#000\#000(\#000\#000\#200\#003\#000\#000\#000\#320.D=\#014V\#000\#000`pq;\#375\#000\#000\#340jq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#0001-D=\#014V\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000&\#000\#000\#200\#003\#000\#000\#000\#360,D=\#014V\#000\#000`pq;\#375\#000\#000 kq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000a+D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000$\#000\#000\#200\#003\#000\#000\#000 +D=\#014V\#000\#000`pq;\#375\#000\#000`kq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#321(D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000"\#000\#000\#200\#003\#000\#000\#000\#220(D=\#014V\#000\#000`pq;\#375\#000\#000\#240kq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#341%D=\#014V\#000\#000\#022\#000\#000\#000\#000\#000\#000\#000 \#000\#000\#200\#003\#000\#000\#000\#240%D=\#014V\#000\#000`pq;\#375\#000\#000\#340kq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#021#D=\#014V\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000\#036\#000\#000\#200\#003\#000\#000\#000\#320"D=\#014V\#000\#000`pq;\#375\#000\#000 lq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000a D=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#000\#034\#000\#000\#200\#003\#000\#000\#000  D=\#014V\#000\#000`pq;\#375\#000\#000`lq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000Q\#035D=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#000\#032\#000\#000\#200\#003\#000\#000\#000\#020\#035D=\#014V\#000\#000`pq;\#375\#000\#000\#240lq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#001\#033D=\#014V\#000\#000	\#000\#000\#000\#000\#000\#000\#000\#030\#000\#000\#200\#003\#000\#000\#000\#300\#032D=\#014V\#000\#000`pq;\#375\#000\#000\#340lq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000q\#031D=\#014V\#000\#000\#016\#000\#000\#000\#000\#000\#000\#000\#026\#000\#000\#200\#003\#000\#000\#0000\#031D=\#014V\#000\#000`pq;\#375\#000\#000 mq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#261\#026D=\#014V\#000\#000\#022\#000\#000\#000\#000\#000\#000\#000\#024\#000\#000\#200\#003\#000\#000\#000p\#026D=\#014V\#000\#000`pq;\#375\#000\#000`mq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#021\#024D=\#014V\#000\#000\#023\#000\#000\#000\#000\#000\#000\#000\#022\#000\#000\#200\#003\#000\#000\#000\#320\#023D=\#014V\#000\#000`pq;\#375\#000\#000\#240mq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000A\#021D=\#014V\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#020\#000\#000\#200\#003\#000\#000\#000\#000\#021D=\#014V\#000\#000`pq;\#375\#000\#000\#340mq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000q\#017D=\#014V\#000\#000\#014\#000\#000\#000\#000\#000\#000\#000\#016\#000\#000\#200\#003\#000\#000\#0000\#017D=\#014V\#000\#000`pq;\#375\#000\#000 nq;\#375\#000\#000\#340	\#353r\#000\#000+\#205\#321r\#000\#000\#301\#014D=\#014V\#000\#000\#005\#000\#000\#000\#000\#000\#000\#000\#014\#000\#000\#200\#003\#000\#000\#000\#200\#014D=\#014V\#000\#000`pq;\#375\#000\#000`nq;\#375\#000\#000\#000\#340E=\#014V\#000\#000+\#205\#321r\#000\#000\#361\#012D=\#014V\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#012\#000\#000\#200\#003\#000\#000\#000\#260\#012D=\#014V\#000\#000`pq;\#375\#000\#000\#240nq;\#375\#000\#000e\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000!	D=\#014V\#000\#000	\#000\#000\#000\#000\#000\#000\#000\#010\#000\#000\#200\#003\#000\#000\#000\#340\#010D=\#014V\#000\#000`pq;\#375\#000\#000\#340nq;\#375\#000\#000\#010\#000\#000\#000\#014V\#000\#000+\#205\#321r\#000\#000\#361\#006D=\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000\#006\#000\#000\#200\#003\#000\#000\#000\#260\#006D=\#014V\#000\#000`pq;\#375\#000\#000 oq;\#375\#000\#000\#002\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#261\#004D=\#014V\#000\#000\#023\#000\#000\#000\#000\#000\#000\#000\#004\#000\#000\#200\#003\#000\#000\#000p\#004D=\#014V\#000\#000`pq;\#375\#000\#000`oq;\#375\#000\#000@\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#321\#001D=\#014V\#000\#000\#023\#000\#000\#000\#000\#000\#000\#000\#002\#000\#000\#200\#003\#000\#000\#000\#220\#001D=\#014V\#000\#000`pq;\#375\#000\#000\#240oq;\#375\#000\#0000\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#241\#376C=\#014V\#000\#000	\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#200\#003\#000\#000\#000`\#376C=\#014V\#000\#000`pq;\#375\#000\#000\#340oq;\#375\#000\#000\#300\#370C=\#014V\#000\#000+\#205\#321r\#000\#000T\#254\#347r\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#377\#377\#377\#001\#000\#000\#000\#270\#003\#353r\#000\#000\#340pq;\#375\#000\#000 pq;\#375\#000\#000\#027\#000\#000\#000\#000\#000\#000\#000+\#205\#321r\#000\#000\#340rq;\#375\#000\#000\#007\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000`pq;\#375\#000\#000\#320qq;\#375\#000\#000)\#203\#321r\#000\#000\#230\#360C=\#014V\#000\#000\#017\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000 ?\#270;\#014V\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000	\#000\#000\#000r\#000\#000@qq;\#375\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#340pq;\#010\#000\#000\#000\#324rq;\#375\#000\#000;\#000\#000\#000\#000\#000\#000\#000.b	\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000wzOl\#223\#220\#367\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#276p\#335;\#014V\#000\#000O\#272\#272;\#014V\#000\#000@qq;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000wzOl\#223\#220\#367\#020sq;\#375\#000\#000O\#272\#272;\#014V\#000\#000O\#272\#272;\#014V\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#324rq;\#375\#000\#000\#324\#031\#270;\#014V\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000BR\#270;\#014V\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#243S\#270;\#014V\#000\#000Psq;\#037\#000\#000\#000\#000wzOl\#223\#220\#367\#337\#250\#000\#000\#000\#000\#000\#000\#216r\#270;\#014V\#000\#000\#337\#250\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000\#337\#250\#000\#000\#000\#000\#000\#000P\#346C=\#014V\#000\#000\#360Y\#267;\#014V\#000\#000`tq;\#375\#000\#000\#214\#302\#242r\#000\#000`\#346C=\#000\#000\#000\#000\#000wzOl\#223\#220\#367P\#346C=\#014V\#000\#000\#337\#250\#000\#000\#000\#000\#000\#000P\#351C=\#014V\#000\#000`\#346C=\#014V\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000P\#346C=\#014V\#000\#000`tq;\#375\#000\#000\#344r\#265;\#014V\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000X\#346C=\#014V\#000\#000p\#351C=\#014V\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000P\#351C=\#014V\#000\#000P\#346C=\#014V\#000\#000\#003\#000\#000\#000\#002\#000\#000\#000\#010\#000\#000\#000\#006\#000\#000\#000U\#351C=\#014V\#000\#000\#012\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#003J\#001\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000p\#351C=\#014V\#000\#000\#250\#300\#272;\#014V\#000\#000P\#351C=\#014V\#000\#000U\#351C=\#014V\#000\#000\#000\#240\#272;\#014V\#000\#000;\#272\#272;\#014V\#000\#000\#340c\#335;\#014V\#000\#000\#227\#273\#272;\#014V\#000\#000\#235\#201\#272;\#014V\#000\#0005\#351C=\#014V\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000=\#355\#360r\#000\#000\#004\#000\#000\#000\#024\#000\#000\#000\#003\#000\#000\#000GNU\#0003\#321\#363P\#3617(e\#035t\#335*V\#272\#321\#344\#344d\#217^\#004\#000\#000\#000\#020\#000\#000\#000\#001\#000\#000\#000GNU\#000\#000\#000\#000\#000\#003\#000\#000\#000\#002\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#003\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#340\#223q;\#375\#000\#000\#320\#216\#363r\#000\#000\#220\#224\#362r\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#020\#220q;\#375\#000\#000\#220\#226q;\#375\#000\#000{\#377\#360r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000P\#002\#000\#000\#000\#000\#000\#330J\#002\#000\#000\#000\#000\#000\#330J\#002\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#000P\#002\#000\#000\#000\#000\#000\#000 \#027\#000\#000\#000\#000\#000\#235\#021\#027\#000\#000\#000\#000\#000\#235\#021\#027\#000\#000\#000\#000\#000\#000P\#002\#000\#000\#000\#000\#000\#005\#000\#000\#000\#000\#000\#000\#000\#000 \#027\#000\#000\#000\#000\#000\#000\#300\#033\#000\#000\#000\#000\#000\#225\#264\#033\#000\#000\#000\#000\#000\#225\#264\#033\#000\#000\#000\#000\#000\#000 \#027\#000\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#000\#320\#033\#000\#000\#000\#000\#000\#0000\#034\#000\#000\#000\#000\#000p$\#034\#000\#000\#000\#000\#000\#270c\#034\#000\#000\#000\#000\#000\#000\#300\#033\#000\#000\#000\#000\#000\#003\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000sE\#361r\#000\#000\#377\#375\#377o\#000\#000\#000\#000\#220\#226q;\#375\#000\#000\#320\#216\#363r\#000\#000D\#374\#360r\#000\#000\#006\#000\#000\#000\#004\#000\#000\#000@\#000\#000\#000\#000\#000\#000\#000@\#000\#000\#000\#000\#000\#000\#000@\#000\#000\#000\#000\#000\#000\#000\#020\#003\#000\#000\#000\#000\#000\#000\#020\#003\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#003\#000\#000\#000\#004\#000\#000\#000\#240Q\#031\#000\#000\#000\#000\#000\#240Q\#031\#000\#000\#000\#000\#000\#240Q\#031\#000\#000\#000\#000\#000\#036\#000\#000\#000\#000\#000\#000\#000\#036\#000\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#330J\#002\#000\#000\#000\#000\#000\#330J\#002\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#005\#000\#000\#000\#000P\#002\#000\#000\#000\#000\#000\#000P\#002\#000\#000\#000\#000\#000\#000P\#002\#000\#000\#000\#000\#000\#235\#301\#024\#000\#000\#000\#000\#000\#235\#301\#024\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#004\#000\#000\#000\#000 \#027\#000\#000\#000\#000\#000\#000 \#027\#000\#000\#000\#000\#000\#000 \#027\#000\#000\#000\#000\#000\#225\#224\#004\#000\#000\#000\#000\#000\#225\#224\#004\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#006\#000\#000\#000\#300\#303\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000\#260P\#000\#000\#000\#000\#000\#000\#370\#217\#000\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#002\#000\#000\#000\#006\#000\#000\#000\#300\#351\#033\#000\#000\#000\#000\#000\#300\#371\#033\#000\#000\#000\#000\#000\#300\#371\#033\#000\#000\#000\#000\#000\#360\#001\#000\#000\#000\#000\#000\#000\#360\#001\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#004\#000\#000\#000\#004\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#004\#000\#000\#000\#004\#000\#000\#000p\#003\#000\#000\#000\#000\#000\#000p\#003\#000\#000\#000\#000\#000\#000p\#003\#000\#000\#000\#000\#000\#000D\#000\#000\#000\#000\#000\#000\#000D\#000\#000\#000\#000\#000\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#007\#000\#000\#000\#004\#000\#000\#000\#300\#303\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000\#220\#000\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000S\#345td\#004\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000P\#345td\#004\#000\#000\#000\#300Q\#031\#000\#000\#000\#000\#000\#300Q\#031\#000\#000\#000\#000\#000\#300Q\#031\#000\#000\#000\#000\#000\#374b\#000\#000\#000\#000\#000\#000\#374b\#000\#000\#000\#000\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000Q\#345td\#006\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000R\#345td\#004\#000\#000\#000\#300\#303\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000@,\#000\#000\#000\#000\#000\#000@,\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000 \#227q;\#375\#000\#0000\#362\#360r\#000\#000\#220\#000\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000S\#345td\#003\#000\#000\#000\#270c\#353r\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000 \#222q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000Y\#015t\#000\#000\#000\#000\#000\#005\#010\#000\#000\#000\#000\#000\#000\#270c\#034\#000\#000\#000\#000\#000\#260\#216\#363r\#000\#000\#037\#010\#265;\#014V\#000\#000\#340@\#363r\#000\#000 \#227q;\#375\#000\#000\#200\#217q;\#375\#000\#000\#005\#010\#000\#000\#000\#000\#000\#000Y\#015t\#000\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#355\#201\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000x\#314 \#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000h\#020\#000\#000\#000\#000\#000\#000hy\#003^\#000\#000\#000\#000R\#315W)\#000\#000\#000\#000`,\#314]\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#033\#341\#323]\#000\#000\#000\#000U5]2\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000(\#227q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000 A\#363r\#000\#000\#214\#226\#361r\#000\#000\#0000\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000U\#035\#361r\#000\#000\#001\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#012\#000\#000\#000\#000\#000\#000\#000\#260\#216\#363r\#000\#000 A\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#300\#211\#363r\#000\#000 A\#363r\#000\#000\#260\#216\#363r\#000\#000\#300\#244q;\#375\#000\#000@\#003\#000\#000\#000\#000\#000\#000ELF\#002\#001\#001\#003\#000\#000\#000\#000\#000\#000\#000\#000\#003\#000>\#000\#001\#000\#000\#000`r\#002\#000\#000\#000\#000\#000@\#000\#000\#000\#000\#000\#000\#000x\#273 \#000\#000\#000\#000\#000\#000\#000\#000\#000@\#0008\#000\#016\#000@\#000D\#000C\#000\#006\#000\#000\#000\#004\#000\#000\#000@\#000\#000\#000\#000\#000\#000\#000@\#000\#000\#000\#000\#000\#000\#000@\#000\#000\#000\#000\#000\#000\#000\#020\#003\#000\#000\#000\#000\#000\#000\#020\#003\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#003\#000\#000\#000\#004\#000\#000\#000\#240Q\#031\#000\#000\#000\#000\#000\#240Q\#031\#000\#000\#000\#000\#000\#240Q\#031\#000\#000\#000\#000\#000\#036\#000\#000\#000\#000\#000\#000\#000\#036\#000\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#330J\#002\#000\#000\#000\#000\#000\#330J\#002\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#005\#000\#000\#000\#000P\#002\#000\#000\#000\#000\#000\#000P\#002\#000\#000\#000\#000\#000\#000P\#002\#000\#000\#000\#000\#000\#235\#301\#024\#000\#000\#000\#000\#000\#235\#301\#024\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#004\#000\#000\#000\#000 \#027\#000\#000\#000\#000\#000\#000 \#027\#000\#000\#000\#000\#000\#000 \#027\#000\#000\#000\#000\#000\#225\#224\#004\#000\#000\#000\#000\#000\#225\#224\#004\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#006\#000\#000\#000\#300\#303\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000\#260P\#000\#000\#000\#000\#000\#000\#370\#217\#000\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#002\#000\#000\#000\#006\#000\#000\#000\#300\#351\#033\#000\#000\#000\#000\#000\#300\#371\#033\#000\#000\#000\#000\#000\#300\#371\#033\#000\#000\#000\#000\#000\#360\#001\#000\#000\#000\#000\#000\#000\#360\#001\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#004\#000\#000\#000\#004\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#004\#000\#000\#000\#004\#000\#000\#000p\#003\#000\#000\#000\#000\#000\#000p\#003\#000\#000\#000\#000\#000\#000p\#003\#000\#000\#000\#000\#000\#000D\#000\#000\#000\#000\#000\#000\#000D\#000\#000\#000\#000\#000\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#007\#000\#000\#000\#004\#000\#000\#000\#300\#303\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000\#220\#000\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000S\#345td\#004\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000P\#003\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000P\#345td\#004\#000\#000\#000\#300Q\#031\#000\#000\#000\#000\#000\#300Q\#031\#000\#000\#000\#000\#000\#300Q\#031\#000\#000\#000\#000\#000\#374b\#000\#000\#000\#000\#000\#000\#374b\#000\#000\#000\#000\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000Q\#345td\#006\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000R\#345td\#004\#000\#000\#000\#300\#303\#033\#000\#000\#000\#000\#000\#300\#323\#033\#000\#000\#000\#000\#000 \#235q;\#375\#000\#000\#220\#241q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000`\#235q;\#375\#000\#000\#320\#216\#363r\#000\#000a\#262\#320r\#000\#000Uf\#361r\#000\#000\#300\#371\#352r\#000\#000%4\#362r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#235q;\#375\#000\#000 f\#361r\#000\#000 \#235q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#235q;\#375\#000\#000\#000\#235q;\#375\#000\#000\#327\#360\#361r\#000\#000\#001\#000\#001\#000\#001\#000\#001\#000\#001\#000 C\#343v\#372\#377\#000\#000\#000\#000\#000\#000\#000\#000\#360\#232q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#230\#224\#363r\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000\#000\#000\#034h\#004\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#340\#232q;\#375\#000\#000\#001\#000\#000\#000\#343v\#372\#377\#000\#000\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000x\#224\#363r\#000\#000\#005\#000\#000\#000\#001\#000\#372\#000\#340\#232q;\#375\#000\#000 A\#363r\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000p\#224\#363r\#000\#000\#220\#241q;\#375\#000\#0000o\#361r\#000\#000\#001\#000\#000\#000r\#000\#000\#2109\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#323i\#361r\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#320\#216\#363r\#000\#000\#240\#233q;\#375\#000\#000\#323i\#361r\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#340\#211\#363r\#000\#000\#300\#233q;\#375\#000\#000\#323i\#361r\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#360\#204\#363r\#000\#000\#340\#233q;\#375\#000\#000\#323i\#361r\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#000\#200\#363r\#000\#000\#000\#234q;\#375\#000\#000\#323i\#361r\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000 A\#363r\#000\#000 \#234q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000@\#234q;\#375\#000\#000`\#235q;\#375\#000\#000\#002\#000\#000\#000\#000\#000\#000\#000\#300\#233q;\#375\#000\#000\#240\#233q;\#375\#000\#000\#000\#000\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000 A\#363r\#000\#000 \#235q;\#375\#000\#000\#240\#233q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000p\#224\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#320\#216\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#0000S\#320r\#000\#000a\#262\#320r\#000\#000\#2109\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000`\#235q;\#375\#000\#000\#000\#004\#000\#000\#000\#000\#000\#000\#2109\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000l*\#361r\#000\#000\#015\#216\#036\#202\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#300F\#363r\#000\#0000\#240q;\#375\#000\#000\#240\#261x;\#375\#000\#000{.\#361r\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000\#330\#262x;\#375\#000\#000\#300F\#363r\#000\#000\#310\#236q;\#375\#000\#000\#304\#236q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000l*\#361r\#000\#000_\#232g\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#320\#216\#363r\#000\#000h\#206\#360r\#000\#000XS\#317r\#000\#000{.\#361r\#000\#000\#303\#000\#000\#000\#000\#000\#000\#0000S\#320r\#000\#000\#320\#216\#363r\#000\#0008\#237q;\#375\#000\#0004\#237q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#0000S\#320r\#000\#000Hu\#317r\#000\#000\#361\#212\#360r\#000\#000_\#232g\#000\#000\#000\#000i\#376\#235\#001\#000\#000\#000\#0004\#237q;\#375\#000\#000\#250\#224\#363r\#000\#000\#000\#240q;\#375\#000\#000h\#206\#360r\#000\#000\#360\#237q;\#375\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000_\#232g\#000\#000\#000\#000\#200D\#363r\#000\#000\#361\#212\#360r\#000\#000\#030\#241q;\#375\#000\#000\#360\#237q;\#375\#000\#000\#000\#240q;\#375\#000\#00097\#361r\#000\#000\#004\#000\#000\#000\#000\#000\#000\#000(\#235\#363r\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#2109\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000(\#235\#363r\#000\#000\#2109\#363r\#000\#000\#200D\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#230a\#265;\#014V\#000\#000\#001\#000\#000\#000\#375\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000\#377\#377\#377\#377\#000\#000\#000\#000\#210\#375\#264;\#014V\#000\#000\#220\#207\#317r\#000\#000\#320\#216\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000H\#262x;\#375\#000\#000\#000\#000\#000\#000 \#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#310\#220\#360r\#000\#000\#220\#241q;\#375\#000\#000\#007\#000\#000\#000\#000\#000\#000\#000\#007\#000\#000\#000\#005\#000\#000\#000h\#206\#360r\#000\#000\#2109\#363r\#000\#0008K\#361r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000XY\#361r\#000\#000\#340\#240q;\#375\#000\#000\#310\#312\#320r\#000\#000\#320\#216\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000`\#241q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000 \#211\#360r\#000\#000\#200D\#363r\#000\#000`\#241q;\#375\#000\#000\#000\#200\#360r\#000\#000D\#213\#360r\#000\#000\#360\#205\#360r\#000\#000\#350/\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#220\#207\#317r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000)\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000}B\#247E\#2119\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000 A\#363r\#000\#000\#200k\#363r\#000\#000l*\#361r\#000\#000&\#260be\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#300F\#363r\#000\#000\#320\#243q;\#375\#000\#000\#260\#261x;\#375\#000\#000{.\#361r\#000\#000\#012\#000\#000\#000\#000\#000\#000\#000\#330\#262x;\#375\#000\#000\#300F\#363r\#000\#000h\#242q;\#375\#000\#000d\#242q;\#375\#000\#000\#001\#242q;\#375\#000\#000\#2109\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#330\#262x;\#375\#000\#000\#270\#261x;\#375\#000\#000\#203\#252\#347r\#000\#000&\#260be\#000\#000\#000\#000\#300\#212\#225\#001\#000\#000\#000\#000d\#242q;\#375\#000\#000\#350F\#363r\#000\#0000\#243q;\#375\#000\#000\#320\#243q;\#375\#000\#000 \#243q;\#375\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000&\#260be\#000\#000\#000\#000PJ\#363r\#000\#000\#203\#252\#347r\#000\#000\#310\#243q;\#375\#000\#000 \#243q;\#375\#000\#0000\#243q;\#375\#000\#00097\#361r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#244q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#300F\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#244q;\#375\#000\#000\#300F\#363r\#000\#000PJ\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#377\#377\#377\#377\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#250\#262x;\#375\#000\#000\#300F\#363r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000@\#360\#264;\#014V\#000\#000\#320\#216\#363r\#000\#000\#005\#000\#000\#000\#000\#000\#000\#000\#310\#244q;\#375\#000\#000\#370\#244q;\#375\#000\#000\#000\#244q;\#375\#000\#000\#001\#000\#000\#000\#000\#000\#000\#000\#000wzOl\#223\#220\#367\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#272;\#014V\#000\#000@|\#265;\#014V\#000\#000\#300\#244q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000Sq\#321r\#000\#000\#330\#323\#352r\#000\#000\#310\#244q;\#375\#000\#000H\#252\#347\#005\#000\#000\#000\#000j\#265;\#014V\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000I\#36309\#211\#036\#344@|\#265;\#014V\#000\#000\#300\#244q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000I\#023\#211\#256\#210\#374\#267I\#375,\#357\#001\#342\#266\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#370\#244q;\#375\#000\#000 A\#363r\#000\#0001\#210\#361r\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000@|\#265;\#014V\#000\#000\#300\#244q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000j|\#265;\#014V\#000\#000\#270\#244q;\#375\#000\#000\#034\#000\#000\#000\#000\#000\#000\#000\#005\#000\#000\#000\#000\#000\#000\#000\#366\#273q;\#375\#000\#000\#374\#273q;\#375\#000\#000\#377\#273q;\#375\#000\#000\#032\#274q;\#375\#000\#000@\#274q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000I\#274q;\#375\#000\#000Y\#274q;\#375\#000\#000\#201\#274q;\#375\#000\#000\#215\#274q;\#375\#000\#000\#234\#274q;\#375\#000\#000\#255\#274q;\#375\#000\#000\#274\#274q;\#375\#000\#000\#321\#274q;\#375\#000\#000\#365\#274q;\#375\#000\#000\#001\#275q;\#375\#000\#000\#016\#275q;\#375\#000\#000 \#275q;\#375\#000\#0001\#275q;\#375\#000\#000`\#275q;\#375\#000\#000{\#275q;\#375\#000\#000\#222\#275q;\#375\#000\#000\#270\#275q;\#375\#000\#000\#303\#275q;\#375\#000\#000\#317\#275q;\#375\#000\#000\#333\#275q;\#375\#000\#000\#346\#275q;\#375\#000\#000\#356\#275q;\#375\#000\#000\#376\#275q;\#375\#000\#000	\#276q;\#375\#000\#000\#032\#276q;\#375\#000\#000C\#276q;\#375\#000\#000b\#276q;\#375\#000\#000y\#276q;\#375\#000\#000\#206\#277q;\#375\#000\#000\#274\#277q;\#375\#000\#000\#330\#277q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000!\#000\#000\#000\#000\#000\#000\#000\#000\#260x;\#375\#000\#000\#020\#000\#000\#000\#000\#000\#000\#000\#377\#373\#213\#027\#000\#000\#000\#000\#006\#000\#000\#000\#000\#000\#000\#000\#000\#020\#000\#000\#000\#000\#000\#000\#021\#000\#000\#000\#000\#000\#000\#000d\#000\#000\#000\#000\#000\#000\#000\#003\#000\#000\#000\#000\#000\#000\#000@\#360\#264;\#014V\#000\#000\#004\#000\#000\#000\#000\#000\#000\#0008\#000\#000\#000\#000\#000\#000\#000\#005\#000\#000\#000\#000\#000\#000\#000	\#000\#000\#000\#000\#000\#000\#000\#007\#000\#000\#000\#000\#000\#000\#000\#000\#200\#360r\#000\#000\#010\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000	\#000\#000\#000\#000\#000\#000\#000@|\#265;\#014V\#000\#000\#013\#000\#000\#000\#000\#000\#000\#000\#350\#003\#000\#000\#000\#000\#000\#000\#014\#000\#000\#000\#000\#000\#000\#000\#350\#003\#000\#000\#000\#000\#000\#000\#015\#000\#000\#000\#000\#000\#000\#000\#331\#003\#000\#000\#000\#000\#000\#000\#016\#000\#000\#000\#000\#000\#000\#000\#331\#003\#000\#000\#000\#000\#000\#000\#027\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#031\#000\#000\#000\#000\#000\#000\#0009\#247q;\#375\#000\#000\#032\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#037\#000\#000\#000\#000\#000\#000\#000\#351\#277q;\#375\#000\#000\#017\#000\#000\#000\#000\#000\#000\#000I\#247q;\#375\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#000\#001wzOl\#223\#220\#367y\#347&\#003\#244\#277\#244ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+ssh_askpass: exec(/usr/lib/ssh/ssh-askpass): No such file or directory
+Host key verification failed.
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: unexplained error (code 255) at io.c(226) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: link_stat "/var/www/gitbook/README.md" failed: No such file or directory (2)
+rsync: link_stat "/var/www/gitbook/book.json" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY book.json
+rsync: link_stat "/var/www/gitbook/knowledge" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: link_stat "/var/www/gitbook/README.md" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY theme-code.less
+rsync: link_stat "/var/www/gitbook/knowledge" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: link_stat "/var/www/gitbook/README.md" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY events.js
+rsync: link_stat "/var/www/gitbook/knowledge" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: link_stat "/var/www/gitbook/README.md" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY fontawesome-webfont.woff
+rsync: link_stat "/var/www/gitbook/knowledge" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: link_stat "/var/www/gitbook/README.md" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY pdf.css
+rsync: link_stat "/var/www/gitbook/knowledge" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: link_stat "/var/www/gitbook/README.md" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY languages.html
+rsync: link_stat "/var/www/gitbook/knowledge" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: link_stat "/var/www/gitbook/README.md" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY ko.json
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch /var/www/gitbook: No such file or directory
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+rsync: change_dir "/var/www/gitbook" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1189) [sender=3.1.3]
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY kubernetes.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY knowledge-base.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY knowledge-base.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY nginx.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY SUMMARY.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+MODIFY docker.md
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.

@@ -1,0 +1,12 @@
+!rofi.modi: drun
+!rofi.show-icons: true
+!rofi.icon-theme: Flat-Remix-Red-Dark
+rofi.hide-scrollbar: true
+rofi.separator-style: none
+rofi.font: Hack 10
+
+!{border-line1, text, border-line2, chose-border, chose-text} 
+rofi.color-normal:	#002B36, #BCC3C3, #002B36, #074B5D, #BCC3C3
+!{window-background, window-border}
+rofi.color-window: #002B36, #000000
+!rofi.color-window:	#002B36, #002B36

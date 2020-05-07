@@ -1,0 +1,4 @@
+polybar|warn:  No monitor specified, using "DVI-D-1"
+polybar|warn:  Ignoring unsupported cursor-scroll option 'ns-resize;'
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
