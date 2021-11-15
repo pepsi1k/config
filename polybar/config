@@ -59,7 +59,7 @@ font-2 = FontAwesome5Free:style=Solid:pixelsize=9;3
 
 modules-left = i3 sp1 filesystem
 modules-center = 
-modules-right = currency sp1 pub_ip space network sp1 alsa2 sp1 xkeyboard sp1 date space gitbook_sync
+modules-right = rates sp1 currency sp1 pub_ip space network sp1 alsa2 sp1 xkeyboard sp1 date space gitbook_sync
 ;modules-right = backlight alsa battery temperature xkeyboard date 
 
 tray-position = right
@@ -296,6 +296,12 @@ type = custom/script
 exec = $HOME/.config/polybar/polybar-script/gitbook_sync.sh
 tail = true
 click-left = echo FFFF
+
+[module/rates]
+type = custom/script
+exec = $HOME/.config/polybar/polybar-script/binance-rate/binance-rate.sh
+interval = 300
+label = %{T4}ETH/USDT: %{T-} %output%
 
 
 [settings]
