@@ -299,9 +299,8 @@ click-left = echo FFFF
 
 [module/rates]
 type = custom/script
-exec = $HOME/.config/polybar/polybar-script/binance-rate/binance-rate.sh
+exec = $HOME/.config/polybar/polybar-script/binance-rate/rate.sh
 interval = 300
-label = %{T4}ETH/USDT: %{T-} %output%
 
 
 [settings]
