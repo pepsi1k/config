@@ -1,0 +1,41 @@
+{
+  "window.titleBarStyle": "custom",
+  "window.customMenuBarAltFocus": false,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "window.menuBarVisibility": "hidden",
+  "workbench.activityBar.visible": true,
+  "editor.cursorBlinking": "solid",
+  "vim.useSystemClipboard": true,
+  "editor.parameterHints.enabled": false,
+  "workbench.tree.indent": 15,
+  "explorer.confirmDelete": false,
+  "C_Cpp.default.cppStandard": "c++17",
+  "C_Cpp.default.cStandard": "c11",
+  "C_Cpp.default.intelliSenseMode": "gcc-x64",
+  "editor.tabSize": 2,
+  "editor.renderIndentGuides": false,
+  "editor.insertSpaces": true,
+
+  "prettier.singleQuote": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "terraform.indexing": {
+      "enabled": false,
+      "liveIndexing": false,
+      "delay": 500,
+      "exclude": [
+          ".terraform/**/*",
+          "**/.terraform/**/*"
+      ]
+  },
+  "terraform.languageServer": {
+      "enabled": false,
+      "args": []
+  },
+  "workbench.colorTheme": "Ayu Dark Bordered",
+  "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.enableMenuBarMnemonics": false,
+  "explorer.confirmDragAndDrop": false
+}
